@@ -25,3 +25,9 @@ There are 6 color schemes available
 
 
 Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com)
+
+
+
+- Download my CV  
+- Print my CV   
+- i18u (en/fr)  
